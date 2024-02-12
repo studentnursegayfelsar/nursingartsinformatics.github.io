@@ -1,10 +1,9 @@
 
-
-<!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-
+	
+</head>
 <body>
     <div class="container">
         <h1 style="color:red"><b>Abruptio Placentae</b></h1>
@@ -35,8 +34,8 @@
   	     <li> No signs of fetal distress</li>
 </ul>
      <br>
-<ul>
-	  <h3><b>Class 2: Moderate</b></h3>
+<h3><b>Class 2: Moderate</b></h3>
+	    <ul>
 	     <li> No sign of vaginal bleeding to a moderate amount of vaginal bleeding</li>
   	     <li> Significant uterine tenderness with tetanic contractions</li>
   	     <li> Change in vital signs: maternal tachycardia, orthostatic changes in blood pressure</li>
@@ -103,7 +102,7 @@
 <p style="color:blue"> https://www.ncbi.nlm.nih.gov/books/NBK482335/ </p>
 <p style="color:blue"> https://www.mayoclinic.org/diseases-conditions/placental-abruption/symptoms-causes/syc-20376458/ </p>
 <p style="color:blue"> https://www.pregnancybirthbaby.org.au/placental-abruption </p>
-    </div>
+    
 </body>
 
 </html>
