@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-
+<img src="https://c0.klipartz.com/pngpicture/777/598/gratis-png-simbolo-de-enfermeria-registrado-enfermera-caduceo.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 890px; height: 316px; margin: 0px; width: 351px;" alt="Nursing Symbol Registered nurse, Caduceus, logo, medicine ..." jsname="kn3ccd" aria-hidden="false">
 </head>
 
 <body>
@@ -108,6 +108,4 @@
  </div>
  
 </body>
-<head>
-</head>
 </html>
