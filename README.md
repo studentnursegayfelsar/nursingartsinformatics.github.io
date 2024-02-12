@@ -9,7 +9,7 @@
 <hr>
       <p> Website by <i> gay </i></p>
 <br>
-<img src="https://media.healthdirect.org.au/images/inline/original/placenta-abruption-dec6d4.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="width="640" height="356" alt="Placenta abruption | Pregnancy Birth and Baby" jsname="kn3ccd" aria-hidden="false">
+<img src="https://media.healthdirect.org.au/images/inline/original/placenta-abruption-dec6d4.jpg" title="placenta abruption" alt="Image showing part of the placenta coming away from the uterus with some fresh blood trickling down the uterine wall">
 <br>
         <p><b>Abruptio placenta or placental abruption</b> is the <i>early separation of a placenta from the lining of the uterus before the completion of the second stage of labor.</i> It is one of the causes of bleeding during the second half of pregnancy. Placental abruption is a relatively rare but serious complication of pregnancy and places the well-being of both mother and fetus at risk.</p>
 <br>
@@ -100,8 +100,7 @@
 <br>
 <p style="color:blue"> https://www.ncbi.nlm.nih.gov/books/NBK482335/ </p>
 <p style="color:blue"> https://www.mayoclinic.org/diseases-conditions/placental-abruption/symptoms-causes/syc-20376458/ </p>
-	<p> <a href=https://www.ncbi.nlm.nih.gov/books/NBK482335/</a>.</p>
-	<p> <a href=https://www.mayoclinic.org/diseases-conditions/placental-abruption/symptoms-causes/syc-20376458/</a>.</p>
+<p style="color:blue"> https://www.pregnancybirthbaby.org.au/placental-abruption </p>
     </div>
 </body>
 
