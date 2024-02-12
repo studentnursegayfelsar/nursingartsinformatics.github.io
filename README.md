@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<title>Placental Abruption</title>
+<head>Placental Abruption</head>
 <body>
     <div class="container">
         <h1 style="color:red"><b>Abruptio Placentae</b></h1>
