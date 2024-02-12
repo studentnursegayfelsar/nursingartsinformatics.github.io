@@ -1,7 +1,6 @@
 
 
-<!DOCTYPE html>
-</!DOCTYPE html>
+<p> <!DOCTYPE html> </p>
 <html lang="en">
 
 <head>
