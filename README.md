@@ -1,6 +1,4 @@
-
-
-<p> <!DOCTYPE html> </p>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -107,8 +105,9 @@
 <p style="color:blue"> https://www.pregnancybirthbaby.org.au/placental-abruption </p>
 
 <div>   
-
 </body>
+ </div>
+ 
 </html>
 
- </div>
+
